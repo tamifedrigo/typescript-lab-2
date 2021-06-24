@@ -1,0 +1,1 @@
+import {LoudGreeter} from "../src/loud-greeter" 

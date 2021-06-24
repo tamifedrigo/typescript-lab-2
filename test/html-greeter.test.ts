@@ -1,0 +1,1 @@
+import {HtmlGreeter} from '../src/html-greeter';

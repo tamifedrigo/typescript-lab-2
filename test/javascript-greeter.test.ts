@@ -1,0 +1,1 @@
+import {JavascriptGreeter} from "../src/javascript-greeter";
